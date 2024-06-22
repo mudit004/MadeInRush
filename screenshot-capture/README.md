@@ -43,10 +43,7 @@
 ## Build
 
 1. Clone this repository
-2. Execute `sh build/package.sh chrome`
+2. Execute `python app.py`
 3. Navigate to `chrome://extensions`
 4. Make sure that the `Developer mode` switch is enabled
 5. Click on the `Load unpacked` button and select the cloned directory
-
-
-  [chrome]: https://chromewebstore.google.com/detail/screenshot-capture/giabbpobpebjfegnpcclkocepcgockkc
