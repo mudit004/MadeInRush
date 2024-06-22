@@ -1,16 +1,6 @@
 
 # Build
 
-Build the `vendor` folder, and create the `screenshot-capture.zip` package:
-
-```bash
-# pick a release tag
-git clone --depth 1 --branch 3.1 https://github.com/simov/screenshot-capture.git
-cd screenshot-capture/
-# build
-sh build/package.sh
-```
-
 ## Build Dependencies
 
 - Node.js >= 18
